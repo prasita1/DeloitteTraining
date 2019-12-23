@@ -1,0 +1,22 @@
+PRASITA TRIPATHY
+1-a
+2-c
+3-d
+4-c
+5-d
+6-a
+7-b
+8-b
+9-d
+10-a
+11-c
+12-a,c,d
+13-d
+14-a
+15-b,c,d
+16-a
+17-a,b
+18-c
+19-d
+20-b
+
